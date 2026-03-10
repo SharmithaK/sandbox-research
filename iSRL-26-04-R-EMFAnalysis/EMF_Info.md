@@ -36,7 +36,7 @@ matter_states = [whole/fresh pieces, cut/sliced pieces, pulp/puree, coarse grits
 
 ### F — Functional Score `[0, 1]`
 
-Is the ingredient's identity defined by its source or by what it does in a product? Low F = source-first identity. High F = function-first identity.
+Is the ingredient's identity defined by its source or by what it does in a product? Especially does law view it as a variant of source or by what it does Low F = source-first identity. High F = function-first identity.
 
 ```
 functional_classes = [base ingredient, taste profile / spice, lipid base, bulking agent,
