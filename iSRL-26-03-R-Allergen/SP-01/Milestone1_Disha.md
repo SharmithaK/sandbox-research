@@ -23,10 +23,10 @@ This section aims to understand what Indian law currently requires for allergen 
 # 2.1 Documents or Organizations
 - Allergen declaration - FSSAI Food Safety and Standards (Food Products Standards and Food Additives) Regulations
 
-- Label format - FSSAI Food Safety and Standards (Labelling and Display)
+- Label format - FSSAI Food Safety and Standards (Labelling and Display), Ram Gaua Raksha Dal v. Union of India case(W.P.(C) 12055/2021).
 
 - Earlier food packaging regulation - FSSAI Food Safety and Standards (Food Products Standards and Food Additives) Regulations,2011.
 
 - 2020 years food packaging regulation - FSSAI Food Safety and Standards (Food Products Standards and Food Additives) Regulations,2020.
 
-- court view on labelling rules - Ram Gaua Raksha Dal v. Union of India case.
+- court view on labelling rules - Ram Gaua Raksha Dal v. Union of India case(W.P.(C) 12055/2021).
