@@ -1,0 +1,74 @@
+{
+  "pull request": {
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests",
+    "desc": "what a pull request is and how to open one to propose changes"
+  },
+  "pr": {
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests",
+    "desc": "what a pull request is and how to open one to propose changes"
+  },
+  "issue": {
+    "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues",
+    "desc": "how to use issues to track bugs, tasks, and feature requests"
+  },
+  "fork": {
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks",
+    "desc": "what a fork is and how to work with a copy of someone else's repo"
+  },
+  "branch": {
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches",
+    "desc": "how branches let you work on changes without affecting the main codebase"
+  },
+  "clone": {
+    "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository",
+    "desc": "how to clone a repository to your local machine"
+  },
+  "commit": {
+    "url": "https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits",
+    "desc": "what commits are and how to save snapshots of your changes"
+  },
+  "markdown": {
+    "url": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "desc": "how to format text, add links, lists, and code blocks in GitHub markdown"
+  },
+  "watch": {
+    "url": "https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/viewing-your-subscriptions",
+    "desc": "how watching a repo controls which notifications you receive"
+  },
+  "review": {
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews",
+    "desc": "how to review a pull request, leave comments, and approve or request changes"
+  },
+  "overleaf": {
+    "url": "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes",
+    "desc": "how to get started writing and compiling documents in Overleaf"
+  },
+  "latex": {
+    "url": "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes",
+    "desc": "how to get started with LaTeX syntax and document structure"
+  },
+  "compile": {
+    "url": "https://www.overleaf.com/learn/latex/Compiling_a_LaTeX_document",
+    "desc": "how to compile a LaTeX document and fix common build errors"
+  },
+  "bibliography": {
+    "url": "https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex",
+    "desc": "how to add references and manage a bibliography with BibTeX"
+  },
+  "table": {
+    "url": "https://www.overleaf.com/learn/latex/Tables",
+    "desc": "how to create and format tables in LaTeX"
+  },
+  "figure": {
+    "url": "https://www.overleaf.com/learn/latex/Inserting_Images",
+    "desc": "how to insert and position images and figures in LaTeX"
+  },
+  "zenodo": {
+    "url": "https://help.zenodo.org/docs/deposit/",
+    "desc": "how to deposit and publish research outputs on Zenodo"
+  },
+  "doi": {
+    "url": "https://www.doi.org/the-identifier/what-is-a-doi/",
+    "desc": "what a DOI is and how it works as a persistent identifier for research"
+  }
+}
